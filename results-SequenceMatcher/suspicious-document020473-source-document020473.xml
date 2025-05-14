@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document reference="suspicious-document020473.txt"><feature name="about" authors="Kailong Hao and Botao Yu and Wei Hu" title="Knowing False Negatives: An Adversarial Training Method for Distantly Supervised Relation Extraction" lang="en" similarity="0.8345" severity="low" algorithm="SequenceMatcher" /><feature name="md5Hash" value="9acd81813334ae5f23e5253d77fa3629" /></document>

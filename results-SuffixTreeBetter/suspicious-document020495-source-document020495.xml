@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document reference="suspicious-document020495.txt"><feature name="about" authors="Jakub Horsky and Andrew Wynn" title="Structure-Informed Neural Networks for Boundary Observation Problems" lang="en" similarity="0.7640" severity="low" algorithm="SuffixTree+Filter" /><feature name="md5Hash" value="26f1b61dd899eddfaf5897b0ab7b53f8" /></document>

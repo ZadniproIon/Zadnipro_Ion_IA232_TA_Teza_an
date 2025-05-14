@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document reference="suspicious-document020532.txt"><feature name="about" authors="Ziyang Yuan and Mingdeng Cao and Xintao Wang and Zhongang Qi and Chun Yuan and Ying Shan" title="CustomNet: Zero-shot Object Customization with Variable-Viewpoints in Text-to-Image Diffusion Models" lang="en" similarity="0.9345" severity="low" algorithm="SuffixTree+Filter" /><feature name="md5Hash" value="0509a370f62a58cb8c4d34762a15d681" /></document>

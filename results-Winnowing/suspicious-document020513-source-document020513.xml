@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document reference="suspicious-document020513.txt"><feature name="about" authors="Hauke Gravenkamp and Albert A. Saputra and Sascha Eisenträger" title="Automatic 3D modeling by combining SBFEM and transfinite element shape functions" lang="en" severity="low" similarity="0.7620" algorithm="Winnowing" /><feature name="md5Hash" value="b5eb66e5cb5b569204b5a84786525e63" /></document>

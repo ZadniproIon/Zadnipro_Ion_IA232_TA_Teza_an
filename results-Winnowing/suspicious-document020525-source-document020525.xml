@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document reference="suspicious-document020525.txt"><feature name="about" authors="Sergio Bietti and Francesco Basso Basset and Artur Tuktamyshev and Emiliano Bonera and Alexey Fedorov and Stefano Sanguinetti" title="High–temperature droplet epitaxy of symmetric GaAs/AlGaAs quantum dots" lang="en" severity="low" similarity="0.5723" algorithm="Winnowing" /><feature name="md5Hash" value="c60d84c60c9b00c6f07642c7502e8461" /></document>

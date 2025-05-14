@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document reference="suspicious-document020475.txt"><feature name="about" authors="Daniel M. Kaplan" title="IIT-CAPP-11-04" lang="en" severity="medium" similarity="0.6792" algorithm="Winnowing" /><feature name="md5Hash" value="adf7ca624d2574818a4f3296e9b7a85a" /><feature name="detected-plagiarism" type="winnowing" this_language="en" this_offset="20787" this_length="87" source_reference="source-document020475.txt" source_offset="37462" source_length="87" /></document>

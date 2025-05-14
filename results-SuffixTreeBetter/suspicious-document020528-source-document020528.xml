@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document reference="suspicious-document020528.txt"><feature name="about" authors="Jeferson Danilo L. Silva and Alessandra N. Braga and Andreson L. C. Rego and Danilo T. Alves" title="Motion induced by asymmetric excitation of the quantum vacuum" lang="en" similarity="0.7715" severity="low" algorithm="SuffixTree+Filter" /><feature name="md5Hash" value="381f06474ca0d4d097006486ef1037e7" /></document>

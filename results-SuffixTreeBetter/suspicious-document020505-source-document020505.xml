@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document reference="suspicious-document020505.txt"><feature name="about" authors="Junhui Li and Pu Wang and Jialu Li and Xinzhe Wang and Youshan Zhang" title="DPATD: Dual-Phase Audio Transformer for Denoising" lang="en" similarity="0.9077" severity="low" algorithm="SuffixTree+Filter" /><feature name="md5Hash" value="59891ec9bb2c63362cff89064159c2c1" /></document>

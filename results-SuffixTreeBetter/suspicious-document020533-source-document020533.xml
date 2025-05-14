@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document reference="suspicious-document020533.txt"><feature name="about" authors="Masahiro Kato" title="Locally Optimal Fixed-Budget Best Arm Identification in Two-Armed Gaussian Bandits with Unknown Variances" lang="en" similarity="0.9124" severity="low" algorithm="SuffixTree+Filter" /><feature name="md5Hash" value="345101213635f447a6e513f56fb2cba1" /></document>

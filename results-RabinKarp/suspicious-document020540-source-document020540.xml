@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document reference="suspicious-document020540.txt"><feature name="about" authors="Maurice H. P. M. van Putten" title="A unit of information in black hole evaporation" lang="en" similarity="0.7059" severity="medium" algorithm="BinSearchFind" /><feature name="md5Hash" value="7b70ae6ff9cba707048e5e68a33a1199" /><feature name="detected-plagiarism" type="rabin-find" this_language="en" this_offset="5519" this_length="31" source_reference="source-document020540.txt" source_offset="46723" source_length="31" /></document>
